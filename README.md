@@ -142,8 +142,6 @@ The spool is designed to keep the filament neatly wound and prevent tangling or 
 ## Result: 
 Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
 
-### Name: T.Ajay
-### Register Number:23007325
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
